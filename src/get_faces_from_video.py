@@ -9,12 +9,15 @@ import numpy as np
 import argparse
 import cv2
 import os
+import time 
+timestr = time.strftime("%Y%m%d-%H%M%S")
+directory_name = "../datasets/train_faces_frames_" + timestr
 
 ap = argparse.ArgumentParser()
 
 ap.add_argument("--video", required=True,
                 help="Number of faces that camera will get")
-ap.add_argument("--output", default="../datasets/unlabeled_faces",
+ap.add_argument("--output", default=directory_name,
                 help="Path to faces output")
 
 args = vars(ap.parse_args())
@@ -32,9 +35,14 @@ frames = 0
 while (cap.isOpened()):
     ret, frame = cap.read()
     frames += 1
+    bboxes = []
     if frames%10 == 0:
         # Get all faces on current frame
-        bboxes = detector.detect_faces(frame)
+        try :
+            bboxes = detector.detect_faces(frame)
+        except : 
+            print ("Error occured in frame : %d" % frames)
+            break
 
         if len(bboxes) != 0:
             # Get only the biggest face
@@ -50,11 +58,11 @@ while (cap.isOpened()):
                 nimg = face_preprocess.preprocess(frame, bbox, landmarks, image_size='112,112')
                 if not(os.path.exists(args["output"])):
                     os.makedirs(args["output"])
-                cv2.imwrite(os.path.join(args["output"], "{}.jpg".format(faces+1)), nimg)
+                cv2.imwrite(os.path.join(args["output"], "{}_frame_{}.jpg".format(faces+1, frames)), nimg)
                 cv2.rectangle(frame, (bbox[0], bbox[1]), (bbox[2], bbox[3]), (255, 0, 0), 2)
                 print("[INFO] {} faces detected".format(faces+1))
                 faces += 1
-    cv2.imshow("Face detection", frame)
+    #cv2.imshow("Face detection", frame)
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
 

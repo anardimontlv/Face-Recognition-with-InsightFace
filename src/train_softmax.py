@@ -29,14 +29,14 @@ le = LabelEncoder()
 labels = le.fit_transform(data["names"])
 num_classes = len(np.unique(labels))
 labels = labels.reshape(-1, 1)
-one_hot_encoder = OneHotEncoder(categorical_features = [0])
+one_hot_encoder = OneHotEncoder()
 labels = one_hot_encoder.fit_transform(labels).toarray()
 
 embeddings = np.array(data["embeddings"])
 
 # Initialize Softmax training model arguments
 BATCH_SIZE = 32
-EPOCHS = 20
+EPOCHS = 100
 input_shape = embeddings.shape[1]
 
 # Build sofmax classifier
@@ -45,7 +45,7 @@ model = softmax.build()
 
 # Create KFold
 cv = KFold(n_splits = 5, random_state = 42, shuffle=True)
-history = {'acc': [], 'val_acc': [], 'loss': [], 'val_loss': []}
+history = {'accuracy': [], 'val_accuracy': [], 'loss': [], 'val_loss': []}
 # Train
 for train_idx, valid_idx in cv.split(embeddings):
     X_train, X_val, y_train, y_val = embeddings[train_idx], embeddings[valid_idx], labels[train_idx], labels[valid_idx]
@@ -54,26 +54,30 @@ for train_idx, valid_idx in cv.split(embeddings):
                     epochs=EPOCHS,
                     verbose=1,
                     validation_data=(X_val, y_val))
-    print(his.history['acc'])
+    print(his.history['accuracy'])
+    
 
-    history['acc'] += his.history['acc']
-    history['val_acc'] += his.history['val_acc']
+    history['accuracy'] += his.history['accuracy']
+    history['val_accuracy'] += his.history['val_accuracy']
     history['loss'] += his.history['loss']
     history['val_loss'] += his.history['val_loss']
 
 
 # write the face recognition model to output
-model.save(args['model'])
+print ("Saving model ...")
+model.save(args['model'], include_optimizer=False)
+print ("Saving pickle ...")
 f = open(args["le"], "wb")
 f.write(pickle.dumps(le))
+print ("completed !")
 f.close()
 
 # Plot
 plt.figure(1)
 # Summary history for accuracy
 plt.subplot(211)
-plt.plot(history['acc'])
-plt.plot(history['val_acc'])
+plt.plot(history['accuracy'])
+plt.plot(history['val_accuracy'])
 plt.title('model accuracy')
 plt.ylabel('accuracy')
 plt.xlabel('epoch')

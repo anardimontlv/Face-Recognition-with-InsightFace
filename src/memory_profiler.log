@@ -1,0 +1,115 @@
+Filename: recognizer_video.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+    83    446.3 MiB    446.3 MiB           1   @profile(stream=fp)
+    84                                         def main () : 
+    85                                             # Initialize some useful arguments
+    86    446.3 MiB      0.0 MiB           1       cosine_threshold = 0.8
+    87    446.3 MiB      0.0 MiB           1       proba_threshold = 0.85
+    88    446.3 MiB      0.0 MiB           1       comparing_num = 5
+    89    446.3 MiB      0.0 MiB           1       trackers = []
+    90    446.3 MiB      0.0 MiB           1       texts = []
+    91    446.3 MiB      0.0 MiB           1       frames = 0
+    92                                         
+    93                                             # Start streaming and recording
+    94    453.3 MiB      7.0 MiB           1       cap = cv2.VideoCapture(args.video_in)
+    95    453.3 MiB      0.0 MiB           1       frame_width = int(cap.get(3))
+    96    453.3 MiB      0.0 MiB           1       frame_height = int(cap.get(4))
+    97    453.3 MiB      0.0 MiB           1       save_width = 800
+    98    453.3 MiB      0.0 MiB           1       save_height = int(800/frame_width*frame_height)
+    99                                         
+   100    453.3 MiB      0.0 MiB           1       timestr = time.strftime("%Y%m%d-%H%M%S")
+   101    453.3 MiB      0.0 MiB           1       csv_output_file_name = args.video_out + "output_" + timestr + ".csv"
+   102    453.3 MiB      0.0 MiB           1       args.video_out = args.video_out + "output_video_" + timestr + ".mp4"
+   103    453.7 MiB      0.4 MiB           1       video_out = cv2.VideoWriter(args.video_out, cv2.VideoWriter_fourcc('M','J','P','G'), 24, (save_width,save_height))
+   104                                         
+   105    453.7 MiB      0.0 MiB           1       fh = open (csv_output_file_name, "w")
+   106                                         
+   107    806.0 MiB    -69.0 MiB          51       while True and frames < 50:
+   108    807.6 MiB     54.3 MiB          50           ret, frame = cap.read()
+   109    807.6 MiB    -52.8 MiB          50           frames += 1
+   110    806.0 MiB   -132.4 MiB          50           frame = cv2.resize(frame, (save_width, save_height))
+   111    806.0 MiB    -51.7 MiB          50           rgb = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
+   112    806.0 MiB    -52.8 MiB          50           print("Frame : [%d]" % frames)
+   113                                                 if True:
+   114    806.0 MiB    -52.8 MiB          50               trackers = []
+   115    806.0 MiB    -52.8 MiB          50               texts = []
+   116                                         
+   117    806.0 MiB    -52.8 MiB          50               detect_tick = time.time()
+   118    802.9 MiB    156.9 MiB          50               bboxes = detector.detect_faces(frame)
+   119    802.9 MiB    -56.3 MiB          50               detect_tock = time.time()
+   120                                         
+   121    802.9 MiB    -56.3 MiB          50               if len(bboxes) != 0:
+   122    802.9 MiB    -28.8 MiB          48                   reco_tick = time.time()
+   123    806.0 MiB    -82.4 MiB         125                   for bboxe in bboxes:
+   124    802.9 MiB    -58.9 MiB          77                       bbox = bboxe['box']
+   125    802.9 MiB    -49.4 MiB          77                       bbox = np.array([bbox[0], bbox[1], bbox[0]+bbox[2], bbox[1]+bbox[3]])
+   126    802.9 MiB    -49.4 MiB          77                       landmarks = bboxe['keypoints']
+   127    802.9 MiB    -98.7 MiB         154                       landmarks = np.array([landmarks["left_eye"][0], landmarks["right_eye"][0], landmarks["nose"][0], landmarks["mouth_left"][0], landmarks["mouth_right"][0],
+   128    802.9 MiB    -49.4 MiB          77                                           landmarks["left_eye"][1], landmarks["right_eye"][1], landmarks["nose"][1], landmarks["mouth_left"][1], landmarks["mouth_right"][1]])
+   129    802.9 MiB    -49.4 MiB          77                       landmarks = landmarks.reshape((2,5)).T
+   130    802.9 MiB    -48.6 MiB          77                       nimg = face_preprocess.preprocess(frame, bbox, landmarks, image_size='112,112')
+   131    802.9 MiB    -49.4 MiB          77                       nimg = cv2.cvtColor(nimg, cv2.COLOR_BGR2RGB)
+   132    802.9 MiB    -49.4 MiB          77                       nimg = np.transpose(nimg, (2,0,1))
+   133    802.9 MiB     -6.0 MiB          77                       embedding = embedding_model.get_feature(nimg).reshape(1,-1)
+   134                                         
+   135    802.9 MiB    -48.8 MiB          77                       text = "Unknown"
+   136                                         
+   137                                                             # Predict class
+   138    802.9 MiB    -57.9 MiB          77                       preds = model.predict(embedding)
+   139    802.9 MiB    -45.3 MiB          77                       preds = preds.flatten()
+   140                                                             # Get the highest accuracy embedded vector
+   141    802.9 MiB    -45.3 MiB          77                       j = np.argmax(preds)
+   142    802.9 MiB    -45.3 MiB          77                       proba = preds[j]
+   143                                                             # Compare this vector to source class vectors to verify it is actual belong to this class
+   144    802.9 MiB    -45.3 MiB          77                       match_class_idx = (labels == j)
+   145    802.9 MiB    -45.3 MiB          77                       match_class_idx = np.where(match_class_idx)[0]
+   146    802.9 MiB    -45.3 MiB          77                       selected_idx = np.random.choice(match_class_idx, comparing_num)
+   147    802.9 MiB    -45.3 MiB          77                       compare_embeddings = embeddings[selected_idx]
+   148                                                             # Calculate cosine similarity
+   149    802.9 MiB    -45.3 MiB          77                       cos_similarity = CosineSimilarity(embedding, compare_embeddings)
+   150    802.9 MiB    -45.3 MiB          77                       if cos_similarity < cosine_threshold and proba > proba_threshold:
+   151    796.2 MiB      0.0 MiB          47                           name = le.classes_[j]
+   152    796.2 MiB      0.0 MiB          47                           text = "{}".format(name)
+   153    796.2 MiB      0.0 MiB          47                           print("Recognized: {} <{:.2f}>".format(name, proba*100))
+   154                                                             # Start tracking
+   155    802.9 MiB    -45.3 MiB          77                       tracker = dlib.correlation_tracker()
+   156    802.9 MiB    -45.3 MiB          77                       rect = dlib.rectangle(bbox[0], bbox[1], bbox[2], bbox[3])
+   157    806.0 MiB      8.6 MiB          77                       tracker.start_track(rgb, rect)
+   158    806.0 MiB    -53.7 MiB          77                       trackers.append(tracker)
+   159    806.0 MiB    -53.7 MiB          77                       texts.append(text)
+   160                                         
+   161    806.0 MiB    -53.7 MiB          77                       y = bbox[1] - 10 if bbox[1] - 10 > 10 else bbox[1] + 10
+   162    806.0 MiB    -53.6 MiB          77                       cv2.putText(frame, text, (bbox[0], y), cv2.FONT_HERSHEY_SIMPLEX, 0.45, (0, 0, 255), 2)
+   163    806.0 MiB    -53.7 MiB          77                       cv2.rectangle(frame, (bbox[0], bbox[1]), (bbox[2], bbox[3]), (255,0,0), 2)
+   164                                                             
+   165    806.0 MiB    -53.7 MiB          77                       if (text != "Unknown"): fh.write ("%d,%s,%d,%d,%d,%d\n" % (frames, text, bbox[0], bbox[1], bbox[2], bbox[3]))
+   166                                                 else:
+   167                                                     for tracker, text in zip(trackers,texts):
+   168                                                         pos = tracker.get_position()
+   169                                         
+   170                                                         # unpack the position object
+   171                                                         startX = int(pos.left())
+   172                                                         startY = int(pos.top())
+   173                                                         endX = int(pos.right())
+   174                                                         endY = int(pos.bottom())
+   175                                         
+   176                                                         cv2.rectangle(frame, (startX, startY), (endX, endY), (255,0,0), 2)
+   177                                                         cv2.putText(frame, text, (startX, startY - 15), cv2.FONT_HERSHEY_SIMPLEX, 0.45, (0,0,255),2)
+   178                                         
+   179                                                 #cv2.imshow("Frame", frame)
+   180    806.0 MiB    -60.6 MiB          50           video_out.write(frame)
+   181                                                 # print("Faces detection time: {}s".format(detect_tock-detect_tick))
+   182                                                 # print("Faces recognition time: {}s".format(reco_tock-reco_tick))
+   183    806.0 MiB    -68.9 MiB          50           key = cv2.waitKey(1) & 0xFF
+   184                                         
+   185    806.0 MiB    -69.0 MiB          50           if key == ord("q"):
+   186                                                     break
+   187                                                 
+   188    785.1 MiB    -20.9 MiB           1       video_out.release()
+   189    753.1 MiB    -32.0 MiB           1       cap.release()
+   190    753.1 MiB      0.0 MiB           1       cv2.destroyAllWindows()
+   191    753.1 MiB      0.0 MiB           1       fh.close()
+
+

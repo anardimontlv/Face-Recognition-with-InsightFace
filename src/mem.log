@@ -1,0 +1,1944 @@
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83160	 <class 'function'>
+43889	 <class 'dict'>
+40424	 <class 'tuple'>
+25281	 <class 'cell'>
+22585	 <class 'weakref'>
+18473	 <class 'builtin_function_or_method'>
+17708	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44942	 <class 'dict'>
+40690	 <class 'tuple'>
+25185	 <class 'cell'>
+24891	 <class 'weakref'>
+20755	 <class 'builtin_function_or_method'>
+18967	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44948	 <class 'dict'>
+40692	 <class 'tuple'>
+25185	 <class 'cell'>
+24891	 <class 'weakref'>
+20755	 <class 'builtin_function_or_method'>
+18969	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44948	 <class 'dict'>
+40692	 <class 'tuple'>
+25185	 <class 'cell'>
+24891	 <class 'weakref'>
+20755	 <class 'builtin_function_or_method'>
+18969	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44948	 <class 'dict'>
+40692	 <class 'tuple'>
+25185	 <class 'cell'>
+24891	 <class 'weakref'>
+20755	 <class 'builtin_function_or_method'>
+18968	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44948	 <class 'dict'>
+40692	 <class 'tuple'>
+25185	 <class 'cell'>
+24891	 <class 'weakref'>
+20755	 <class 'builtin_function_or_method'>
+18969	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44948	 <class 'dict'>
+40692	 <class 'tuple'>
+25185	 <class 'cell'>
+24891	 <class 'weakref'>
+20755	 <class 'builtin_function_or_method'>
+18969	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44948	 <class 'dict'>
+40692	 <class 'tuple'>
+25185	 <class 'cell'>
+24891	 <class 'weakref'>
+20755	 <class 'builtin_function_or_method'>
+18968	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44948	 <class 'dict'>
+40692	 <class 'tuple'>
+25185	 <class 'cell'>
+24891	 <class 'weakref'>
+20755	 <class 'builtin_function_or_method'>
+18969	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44948	 <class 'dict'>
+40692	 <class 'tuple'>
+25185	 <class 'cell'>
+24891	 <class 'weakref'>
+20755	 <class 'builtin_function_or_method'>
+18969	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44949	 <class 'dict'>
+40692	 <class 'tuple'>
+25185	 <class 'cell'>
+24891	 <class 'weakref'>
+20755	 <class 'builtin_function_or_method'>
+18969	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44948	 <class 'dict'>
+40692	 <class 'tuple'>
+25185	 <class 'cell'>
+24891	 <class 'weakref'>
+20755	 <class 'builtin_function_or_method'>
+18969	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44948	 <class 'dict'>
+40692	 <class 'tuple'>
+25185	 <class 'cell'>
+24891	 <class 'weakref'>
+20755	 <class 'builtin_function_or_method'>
+18969	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44948	 <class 'dict'>
+40692	 <class 'tuple'>
+25185	 <class 'cell'>
+24891	 <class 'weakref'>
+20755	 <class 'builtin_function_or_method'>
+18968	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44948	 <class 'dict'>
+40692	 <class 'tuple'>
+25185	 <class 'cell'>
+24891	 <class 'weakref'>
+20755	 <class 'builtin_function_or_method'>
+18969	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44948	 <class 'dict'>
+40692	 <class 'tuple'>
+25185	 <class 'cell'>
+24891	 <class 'weakref'>
+20755	 <class 'builtin_function_or_method'>
+18969	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44948	 <class 'dict'>
+40692	 <class 'tuple'>
+25185	 <class 'cell'>
+24891	 <class 'weakref'>
+20755	 <class 'builtin_function_or_method'>
+18968	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44948	 <class 'dict'>
+40692	 <class 'tuple'>
+25185	 <class 'cell'>
+24891	 <class 'weakref'>
+20755	 <class 'builtin_function_or_method'>
+18969	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44948	 <class 'dict'>
+40692	 <class 'tuple'>
+25185	 <class 'cell'>
+24891	 <class 'weakref'>
+20755	 <class 'builtin_function_or_method'>
+18969	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44948	 <class 'dict'>
+40692	 <class 'tuple'>
+25185	 <class 'cell'>
+24891	 <class 'weakref'>
+20755	 <class 'builtin_function_or_method'>
+18968	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44948	 <class 'dict'>
+40692	 <class 'tuple'>
+25185	 <class 'cell'>
+24891	 <class 'weakref'>
+20755	 <class 'builtin_function_or_method'>
+18969	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44948	 <class 'dict'>
+40692	 <class 'tuple'>
+25185	 <class 'cell'>
+24891	 <class 'weakref'>
+20755	 <class 'builtin_function_or_method'>
+18969	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44954	 <class 'dict'>
+40694	 <class 'tuple'>
+25185	 <class 'cell'>
+24980	 <class 'weakref'>
+20844	 <class 'builtin_function_or_method'>
+18968	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44954	 <class 'dict'>
+40694	 <class 'tuple'>
+25185	 <class 'cell'>
+24980	 <class 'weakref'>
+20844	 <class 'builtin_function_or_method'>
+18969	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44954	 <class 'dict'>
+40694	 <class 'tuple'>
+25185	 <class 'cell'>
+24980	 <class 'weakref'>
+20844	 <class 'builtin_function_or_method'>
+18969	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44954	 <class 'dict'>
+40694	 <class 'tuple'>
+25185	 <class 'cell'>
+24980	 <class 'weakref'>
+20844	 <class 'builtin_function_or_method'>
+18968	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44954	 <class 'dict'>
+40694	 <class 'tuple'>
+25185	 <class 'cell'>
+24980	 <class 'weakref'>
+20844	 <class 'builtin_function_or_method'>
+18969	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44954	 <class 'dict'>
+40694	 <class 'tuple'>
+25185	 <class 'cell'>
+24980	 <class 'weakref'>
+20844	 <class 'builtin_function_or_method'>
+18969	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44954	 <class 'dict'>
+40694	 <class 'tuple'>
+25185	 <class 'cell'>
+24980	 <class 'weakref'>
+20844	 <class 'builtin_function_or_method'>
+18968	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44954	 <class 'dict'>
+40694	 <class 'tuple'>
+25185	 <class 'cell'>
+24980	 <class 'weakref'>
+20844	 <class 'builtin_function_or_method'>
+18969	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44955	 <class 'dict'>
+40694	 <class 'tuple'>
+25185	 <class 'cell'>
+24980	 <class 'weakref'>
+20844	 <class 'builtin_function_or_method'>
+18970	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44955	 <class 'dict'>
+40694	 <class 'tuple'>
+25185	 <class 'cell'>
+24980	 <class 'weakref'>
+20844	 <class 'builtin_function_or_method'>
+18969	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44955	 <class 'dict'>
+40694	 <class 'tuple'>
+25185	 <class 'cell'>
+24980	 <class 'weakref'>
+20844	 <class 'builtin_function_or_method'>
+18970	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44955	 <class 'dict'>
+40694	 <class 'tuple'>
+25185	 <class 'cell'>
+24980	 <class 'weakref'>
+20844	 <class 'builtin_function_or_method'>
+18970	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44955	 <class 'dict'>
+40694	 <class 'tuple'>
+25185	 <class 'cell'>
+24980	 <class 'weakref'>
+20844	 <class 'builtin_function_or_method'>
+18969	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44955	 <class 'dict'>
+40694	 <class 'tuple'>
+25185	 <class 'cell'>
+24980	 <class 'weakref'>
+20844	 <class 'builtin_function_or_method'>
+18970	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44956	 <class 'dict'>
+40694	 <class 'tuple'>
+25185	 <class 'cell'>
+24980	 <class 'weakref'>
+20844	 <class 'builtin_function_or_method'>
+18971	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44956	 <class 'dict'>
+40694	 <class 'tuple'>
+25185	 <class 'cell'>
+24980	 <class 'weakref'>
+20844	 <class 'builtin_function_or_method'>
+18970	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44955	 <class 'dict'>
+40694	 <class 'tuple'>
+25185	 <class 'cell'>
+24980	 <class 'weakref'>
+20844	 <class 'builtin_function_or_method'>
+18970	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44956	 <class 'dict'>
+40694	 <class 'tuple'>
+25185	 <class 'cell'>
+24980	 <class 'weakref'>
+20844	 <class 'builtin_function_or_method'>
+18971	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44956	 <class 'dict'>
+40694	 <class 'tuple'>
+25185	 <class 'cell'>
+24980	 <class 'weakref'>
+20844	 <class 'builtin_function_or_method'>
+18970	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44956	 <class 'dict'>
+40694	 <class 'tuple'>
+25185	 <class 'cell'>
+24980	 <class 'weakref'>
+20844	 <class 'builtin_function_or_method'>
+18971	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44956	 <class 'dict'>
+40694	 <class 'tuple'>
+25185	 <class 'cell'>
+24980	 <class 'weakref'>
+20844	 <class 'builtin_function_or_method'>
+18971	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44956	 <class 'dict'>
+40694	 <class 'tuple'>
+25185	 <class 'cell'>
+24980	 <class 'weakref'>
+20844	 <class 'builtin_function_or_method'>
+18970	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44956	 <class 'dict'>
+40694	 <class 'tuple'>
+25185	 <class 'cell'>
+24980	 <class 'weakref'>
+20844	 <class 'builtin_function_or_method'>
+18971	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44956	 <class 'dict'>
+40694	 <class 'tuple'>
+25185	 <class 'cell'>
+24980	 <class 'weakref'>
+20844	 <class 'builtin_function_or_method'>
+18971	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44956	 <class 'dict'>
+40694	 <class 'tuple'>
+25185	 <class 'cell'>
+24980	 <class 'weakref'>
+20844	 <class 'builtin_function_or_method'>
+18970	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44955	 <class 'dict'>
+40694	 <class 'tuple'>
+25185	 <class 'cell'>
+24980	 <class 'weakref'>
+20844	 <class 'builtin_function_or_method'>
+18970	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44954	 <class 'dict'>
+40694	 <class 'tuple'>
+25185	 <class 'cell'>
+24980	 <class 'weakref'>
+20844	 <class 'builtin_function_or_method'>
+18969	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44954	 <class 'dict'>
+40694	 <class 'tuple'>
+25185	 <class 'cell'>
+24980	 <class 'weakref'>
+20844	 <class 'builtin_function_or_method'>
+18968	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44954	 <class 'dict'>
+40694	 <class 'tuple'>
+25185	 <class 'cell'>
+24980	 <class 'weakref'>
+20844	 <class 'builtin_function_or_method'>
+18969	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44954	 <class 'dict'>
+40694	 <class 'tuple'>
+25185	 <class 'cell'>
+24980	 <class 'weakref'>
+20844	 <class 'builtin_function_or_method'>
+18969	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44954	 <class 'dict'>
+40694	 <class 'tuple'>
+25185	 <class 'cell'>
+24980	 <class 'weakref'>
+20844	 <class 'builtin_function_or_method'>
+18968	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
+
+refs:
+8238	<class 'dict'> {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+7369	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+7043	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6637	<class 'list'> ['# Copyright 2017 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6578	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+6546	<class 'dict'> {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+5894	<class 'list'> ['# Copyright 2015 The TensorFlow Authors. All Rights Reserved.\n', '#\n', '# Licensed under the Apa
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+5814	<class 'list'> ['#\n', '# core.py\n', '#\n', 'import os\n', 'import typing\n', 'from typing import (\n', '    Named
+
+bytes:
+295000	 {'sys': <module 'sys' (built-in)>, 'builtins': <module 'builtins' (built-in)>, '_frozen_importlib': 
+295000	 {'__internal__.tf2.enabled': <function enabled at 0x000001510617BD30>, 'compat.as_text': <function a
+147552	 {140729432656992: <weakref at 0x0000015100BA1DB0; to 'type' at 0x00007FFE1FD7CC60 (type)>, 140729432
+73816	 {'__name__': 'tensorflow.python.ops.standard_ops', '__doc__': 'Import names of Tensor Flow standard 
+73816	 {'__name__': 'tensorflow._api.v2.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace
+73816	 {'__name__': 'tensorflow._api.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '__p
+73816	 {'__name__': 'tensorflow.compat.v1.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'tensorflow.compat.v2.raw_ops', '__doc__': 'Public API for tf.raw_ops namespace.\n', '_
+73816	 {'__name__': 'cv2', '__doc__': '\nOpenCV Python binary extension loader\n', '__package__': 'cv2', '_
+
+types:
+83058	 <class 'function'>
+44954	 <class 'dict'>
+40694	 <class 'tuple'>
+25185	 <class 'cell'>
+24980	 <class 'weakref'>
+20844	 <class 'builtin_function_or_method'>
+18969	 <class 'list'>
+8016	 <class 'getset_descriptor'>
+7355	 <class 'type'>
+5697	 <class 'method_descriptor'>
